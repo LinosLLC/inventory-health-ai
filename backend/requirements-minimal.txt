@@ -1,0 +1,41 @@
+# FastAPI and web framework
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+
+# Database
+sqlalchemy
+alembic
+psycopg2-binary
+
+# Data processing
+pandas
+numpy
+scipy
+
+# HTTP and API clients
+httpx
+requests
+aiohttp
+
+# Data validation
+pydantic
+pydantic-settings
+
+# Monitoring and logging
+structlog
+
+# Security
+cryptography
+bcrypt
+
+# Configuration
+pyyaml
+click
+
+# Utilities
+python-dateutil
+pytz 
